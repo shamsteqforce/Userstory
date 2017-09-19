@@ -1,0 +1,57 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "."
+		},
+		{
+			"follow_symlinks": true,
+			"path": "E:\\Shamsad\\Projects\\AMS Backup\\AMS_BACKUP_21-November"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "C:\\simple-todos-react"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "C:\\xampp\\htdocs\\ReactJs"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "C:\\Users\\shamsad.ahmad\\Downloads\\chrome-app-samples-master\\chrome-app-samples-master\\samples\\printing"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "E:\\demo-projects"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "C:\\job-directory"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "C:\\xampp\\htdocs\\assign"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "C:\\Users\\shamsad.ahmad\\Downloads\\residds-master\\residds-master"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "E:\\winetrakr"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "E:\\SV_DB\\frontend"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "E:\\Shamsad\\All Program Lectures\\Salesforce\\DF14-Visualforce-AngularJS-RemoteObjects-master\\DF14-Visualforce-AngularJS-RemoteObjects-master"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "C:\\Users\\shamsad.ahmad\\Downloads\\ParallaxContentSlider"
+		}
+	]
+}

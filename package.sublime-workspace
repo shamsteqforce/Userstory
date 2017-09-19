@@ -1,0 +1,820 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"toda",
+				"todayDateString"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"toDate",
+				"toDateString"
+			],
+			[
+				"wine",
+				"winebottle"
+			],
+			[
+				"purchase",
+				"purchase_date"
+			],
+			[
+				"bo",
+				"bottle_properties"
+			],
+			[
+				"contac",
+				"contacts"
+			],
+			[
+				"conta",
+				"contact"
+			],
+			[
+				"edi",
+				"editFormShow"
+			],
+			[
+				"clea",
+				"clearFields"
+			],
+			[
+				"cot",
+				"contacts"
+			],
+			[
+				"wor",
+				"work_phone"
+			],
+			[
+				"ho",
+				"home_phone"
+			],
+			[
+				"mo",
+				"mobile_phone"
+			],
+			[
+				"c",
+				"company"
+			],
+			[
+				"str",
+				"street_address"
+			],
+			[
+				"th",
+				"thead	Tag"
+			],
+			[
+				"f",
+				"firebaseArray"
+			],
+			[
+				"secr",
+				"secretKey"
+			],
+			[
+				"js",
+				"json"
+			],
+			[
+				"cre",
+				"createToken"
+			],
+			[
+				"sec",
+				"secretKey"
+			],
+			[
+				"us",
+				"username"
+			],
+			[
+				"json",
+				"jsonwebtoken"
+			],
+			[
+				"se",
+				"send"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"p",
+				"password"
+			],
+			[
+				"requ",
+				"require"
+			],
+			[
+				"User",
+				"UserSchema"
+			],
+			[
+				"Us",
+				"UserSchema"
+			],
+			[
+				"bod",
+				"bodyParser"
+			],
+			[
+				"Liste",
+				"listening"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/shamsad.ahmad/Downloads/ParallaxContentSlider/index2.html",
+			"settings":
+			{
+				"buffer_size": 4418,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/shamsad.ahmad/Downloads/ParallaxContentSlider/js/jquery.cslider.js",
+			"settings":
+			{
+				"buffer_size": 6839,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/shamsad.ahmad/Downloads/MockupSlideshow/MockupSlideshow/index2.html",
+			"settings":
+			{
+				"buffer_size": 2699,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<body  style=\" background-color: #005c99;\">\n<div class=\"row\" style=\" background-color: #005c99;\">\n\n<div class=\"col-md-4\"></div>\n<div class=\"col-md-4\">\n<br/><br/><br/>\n<center>\n<h2 style=\"color:#ffffff\">Thanks for your response!</h2><br/><br/>\n<h4 style=\"color:#ffffff\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We will get in touch with you shortly</h4><br/><br/><br/>\n\n<h4 style=\"color:#ffffff\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\nStreaming Tank </h4> <br/> \n<h4 style=\"color:#ffffff\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;London </h4><br/> \n<h4 style=\"color:#ffffff\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;New York </h4><br/> \n<h4 style=\"color:#ffffff\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<a href=\"http://www.streamingtank.com\" target=\"_blank\" >www.streamingtank.com\n</a>\n</h4>\n\n</center>\n</div>\n<div class=\"col-md-4\"></div>\n</div>",
+			"settings":
+			{
+				"buffer_size": 866,
+				"line_ending": "Windows",
+				"name": "<body  style=\" background-color: #005c99;\">"
+			}
+		},
+		{
+			"file": "/E/winetrakr/modules/core/client/views/header-graph.client.view.html",
+			"settings":
+			{
+				"buffer_size": 5361,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/winetrakr/modules/core/client/views/graph.client.view.html",
+			"settings":
+			{
+				"buffer_size": 9918,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/winetrakr/modules/core/client/controllers/graph.client.controller.js",
+			"settings":
+			{
+				"buffer_size": 32317,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/winetrakr/modules/core/client/controllers/header.client.controller.js",
+			"settings":
+			{
+				"buffer_size": 12568,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/Shamsad/Projects/Used Themes(ThemeForest)/themeforest-5495486-melon-flat-responsive-admin-template/Template/assets/js/app.js",
+			"settings":
+			{
+				"buffer_size": 20484,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/Shamsad/Projects/Used Themes(ThemeForest)/themeforest-5495486-melon-flat-responsive-admin-template/Template/index.html",
+		"/E/Shamsad/Feedbackpage/backup/assets/css/style.css",
+		"/C/Users/shamsad.ahmad/Downloads/salesforce-lightning-design-system/assets/styles/salesforce-lightning-design-system-vf.css",
+		"/E/Shamsad/All Program Lectures/Salesforce/DF14-Visualforce-AngularJS-RemoteObjects-master/DF14-Visualforce-AngularJS-RemoteObjects-master/src/contact_manager.page",
+		"/E/Shamsad/All Program Lectures/Salesforce/DF14-Visualforce-AngularJS-RemoteObjects-master/DF14-Visualforce-AngularJS-RemoteObjects-master/src/ContactManagerSPA/app/contact/contact-new.html",
+		"/E/Shamsad/Feedbackpage/backup/my.html",
+		"/E/Shamsad/Feedbackpage/backup/assets/style.css",
+		"/C/xampp/htdocs/feed1/assets/css/style.css",
+		"/E/Shamsad/All Program Lectures/Salesforce/DF14-Visualforce-AngularJS-RemoteObjects-master/DF14-Visualforce-AngularJS-RemoteObjects-master/src/ContactManagerSPA/app/contact/contact-edit-controller.js",
+		"/E/Shamsad/All Program Lectures/Salesforce/DF14-Visualforce-AngularJS-RemoteObjects-master/DF14-Visualforce-AngularJS-RemoteObjects-master/src/ContactManagerSPA/app/contact/contact-entity.js",
+		"/E/Shamsad/All Program Lectures/Salesforce/DF14-Visualforce-AngularJS-RemoteObjects-master/DF14-Visualforce-AngularJS-RemoteObjects-master/src/ContactManagerSPA/app/contact/contact-list.html",
+		"/E/Shamsad/All Program Lectures/Salesforce/DF14-Visualforce-AngularJS-RemoteObjects-master/DF14-Visualforce-AngularJS-RemoteObjects-master/src/ContactManagerSPA/app/contact/contact-list-controller.js",
+		"/E/Shamsad/All Program Lectures/Salesforce/DF14-Visualforce-AngularJS-RemoteObjects-master/DF14-Visualforce-AngularJS-RemoteObjects-master/src/ContactManagerSPA/app/app.js",
+		"/E/Shamsad/All Program Lectures/Salesforce/DF14-Visualforce-AngularJS-RemoteObjects-master/DF14-Visualforce-AngularJS-RemoteObjects-master/src/ContactManagerSPA/app/contact/contact-edit.html",
+		"/E/Shamsad/All Program Lectures/Salesforce/DF14-Visualforce-AngularJS-RemoteObjects-master/DF14-Visualforce-AngularJS-RemoteObjects-master/src/ContactManagerSPA/app/contact/contact-new-controller.js",
+		"/E/Shamsad/All Program Lectures/Salesforce/DF14-Visualforce-AngularJS-RemoteObjects-master/DF14-Visualforce-AngularJS-RemoteObjects-master/src/app/contact/contact-new-controller.js",
+		"/E/Shamsad/All Program Lectures/Salesforce/DF14-Visualforce-AngularJS-RemoteObjects-master/DF14-Visualforce-AngularJS-RemoteObjects-master/src/app/app.js",
+		"/E/Shamsad/All Program Lectures/Salesforce/DF14-Visualforce-AngularJS-RemoteObjects-master/DF14-Visualforce-AngularJS-RemoteObjects-master/src/app/contact/contact-edit-controller.js",
+		"/E/Shamsad/All Program Lectures/Salesforce/DF14-Visualforce-AngularJS-RemoteObjects-master/DF14-Visualforce-AngularJS-RemoteObjects-master/src/app/contact/contact-list.html",
+		"/E/Shamsad/All Program Lectures/Salesforce/DF14-Visualforce-AngularJS-RemoteObjects-master/DF14-Visualforce-AngularJS-RemoteObjects-master/src/app/contact/contact-list-controller.js",
+		"/E/Shamsad/All Program Lectures/Salesforce/DF14-Visualforce-AngularJS-RemoteObjects-master/DF14-Visualforce-AngularJS-RemoteObjects-master/src/app/contact/contact-new.html",
+		"/E/Shamsad/All Program Lectures/Salesforce/DF14-Visualforce-AngularJS-RemoteObjects-master/DF14-Visualforce-AngularJS-RemoteObjects-master/src/app/contact/contact-entity.js",
+		"/E/Shamsad/All Program Lectures/Salesforce/DF14-Visualforce-AngularJS-RemoteObjects-master/DF14-Visualforce-AngularJS-RemoteObjects-master/src/app/contact/contact-edit.html",
+		"/E/Shamsad/All Program Lectures/Salesforce/DF14-Visualforce-AngularJS-RemoteObjects-master/DF14-Visualforce-AngularJS-RemoteObjects-master/src/contactApp/app/app.js",
+		"/E/Shamsad/All Program Lectures/Salesforce/DF14-Visualforce-AngularJS-RemoteObjects-master/DF14-Visualforce-AngularJS-RemoteObjects-master/README.md",
+		"/E/Shamsad/All Program Lectures/Salesforce/DF14-Visualforce-AngularJS-RemoteObjects-master/DF14-Visualforce-AngularJS-RemoteObjects-master/bower.json",
+		"/E/Shamsad/All Program Lectures/Salesforce/DF14-Visualforce-AngularJS-RemoteObjects-master/DF14-Visualforce-AngularJS-RemoteObjects-master/package.json",
+		"/E/SV_DB/frontend/code/Studiovox.Web/AngularJS/Models/AboutUserItem.ts",
+		"/E/SV_DB/frontend/code/Studiovox.Web/AngularJS/Controllers/AboutController.ts",
+		"/E/SV_DB/frontend/code/Studiovox.Web/AngularJS/Interfaces/IAnnouncementItem.ts",
+		"/E/SV_DB/frontend/code/Studiovox.Web/AngularJS/Interfaces/IAnnouncementService.ts",
+		"/E/SV_DB/frontend/code/Studiovox.Web/AngularJS/Interfaces/IAboutUserItem.ts",
+		"/E/SV_DB/frontend/code/Studiovox.Web/AngularJS/Interfaces/IBaseAboutItem.ts",
+		"/E/SV_DB/frontend/code/Studiovox.Web/svapi/Group.ashx",
+		"/E/SV_DB/frontend/code/Studiovox.Web/svapi/Activities.ashx",
+		"/E/SV_DB/frontend/code/Studiovox.Web/AngularJS/Models/BlogListItem.ts",
+		"/E/SV_DB/frontend/code/Studiovox.Web/AngularJS/StudioVoxApp.ts",
+		"/E/SV_DB/frontend/code/Studiovox.Web/AngularJS/_all.ts",
+		"/E/SV_DB/frontend/code/Studiovox.Web/AngularJS/Interfaces/IChangePasswordService.ts",
+		"/E/SV_DB/frontend/code/Studiovox.Web/AngularJS/Views/members/about.html",
+		"/E/SV_DB/frontend/code/Studiovox.Web/AngularJS/Services/AboutService.ts",
+		"/E/SV_DB/frontend/code/Studiovox.Web/AngularJS/Services/AnnouncementService.ts",
+		"/E/SV_DB/frontend/code/Studiovox.Web/AngularJS/Services/ChangePasswordService.ts",
+		"/E/SV_DB/frontend/code/Studiovox.Web/AngularJS/Services/CustomContactUsService.ts",
+		"/E/SV_DB/frontend/code/Studiovox.Web/AngularJS/Services/FileUploaderService.ts",
+		"/E/SV_DB/frontend/code/Studiovox.Web/AngularJS/Services/LoginService.ts",
+		"/E/SV_DB/frontend/code/Studiovox.Web/AngularJS/Controllers/AnnouncementController.ts",
+		"/E/SV_DB/frontend/code/Studiovox.Web/AngularJS/app.js",
+		"/E/SV_DB/frontend/code/Studiovox.Web/AngularJS/Interfaces/IAboutService.ts",
+		"/E/SV_DB/frontend/code/Studiovox.Web/AngularJS/Controllers/BaseController.ts",
+		"/E/winetrakr/modules/wine/server/controllers/wines.server.controller.js",
+		"/C/xampp/htdocs/wijmoflex/index.html",
+		"/E/SV_DB/frontend/code/Studiovox.Web/AngularJS/Services/EditProfileService.ts",
+		"/E/SV_DB/frontend/code/Studiovox.Web/AngularJS/Services/AuthorizationService.ts",
+		"/E/SV_DB/frontend/code/Studiovox.Web/AngularJS/Constants/Constants.ts",
+		"/E/SV_DB/frontend/code/Studiovox.Web/AngularJS/Views/resume/aboutUser.html",
+		"/E/SV_DB/frontend/code/Studiovox.Web/AngularJS/StudioVoxApp.js",
+		"/E/winetrakr/modules/wine/server/models/wine_bottle.server.model.js",
+		"/E/winetrakr/config/env/default.js",
+		"/E/winetrakr/modules/core/client/controllers/receipt.client.controller.js",
+		"/E/winetrakr/modules/users/client/controllers/settings/change-profile-picture.client.controller.js",
+		"/E/winetrakr/modules/users/client/controllers/settings/edit-profile.client.controller.js",
+		"/E/winetrakr/modules/core/client/views/add-receipt.client.view.html",
+		"/C/Users/shamsad.ahmad/Documents/test.js",
+		"/E/winetrakr/modules/wine/server/models/historic_positions.server.model.js",
+		"/E/winetrakr/modules/core/server/routes/core.server.routes.js",
+		"/E/winetrakr/modules/core/server/controllers/core.server.controller.js",
+		"/C/xampp/htdocs/wijmoflex/app.js",
+		"/C/Users/shamsad.ahmad/Downloads/CustomFooters/CustomFooters/CustomFooters/default.htm",
+		"/C/xampp/htdocs/wijmoflex/app/css/app.css",
+		"/C/Users/shamsad.ahmad/Downloads/CustomFooters/CustomFooters/CustomFooters/scripts/controllers/appCtrl.js",
+		"/E/winetrakr/config/env/development.js",
+		"/E/winetrakr/node_modules/mongoose/node_modules/mongodb/lib/bulk/unordered.js",
+		"/E/winetrakr/node_modules/mongoose/node_modules/bson/lib/bson/parser/calculate_size.js",
+		"/E/winetrakr/node_modules/mongoose/node_modules/mongodb/lib/collection.js",
+		"/E/winetrakr/modules/wine/client/views/wine-details.client.view.html",
+		"/E/winetrakr/modules/wine/client/views/add-bottle.client.view.html",
+		"/E/winetrakr/modules/core/client/views/graph.client.view.html",
+		"/E/winetrakr/modules/wine/client/views/value-details.client.view.html",
+		"/E/winetrakr/modules/wine/server/models/wine.server.model.js",
+		"/E/winetrakr/modules/wine/server/models/positions.server.model.js",
+		"/E/winetrakr/modules/wine/server/models/wine_price.server.model.js",
+		"/E/winetrakr/modules/wine/client/views/wine.details.client.view.html",
+		"/E/winetrakr/modules/wine/client/views/edit-value-details.client.view.html",
+		"/C/job-directory/modules/users/client/views/authentication/signin.client.view.html",
+		"/C/job-directory/config/env/development.js",
+		"/C/Users/shamsad.ahmad/Downloads/residds-master/residds-master/Views/Account/ExternalLoginFailure.cshtml",
+		"/C/Users/shamsad.ahmad/Downloads/residds-master/residds-master/Views/Account/ForgotPassword.cshtml",
+		"/C/xampp/htdocs/assign/index.html",
+		"/C/xampp/htdocs/assign/js/myjs.js",
+		"/C/xampp/htdocs/assign/js/plugins.js",
+		"/C/xampp/htdocs/assign/css/style.css",
+		"/C/xampp/htdocs/assign/css/mystyle.css",
+		"/C/Users/shamsad.ahmad/Downloads/residds-master/residds-master/Views/Jobs/Assign.cshtml",
+		"/C/Users/shamsad.ahmad/Downloads/residds-master/residds-master/Views/Jobs/Create.cshtml",
+		"/C/Users/shamsad.ahmad/Downloads/residds-master/residds-master/Views/Jobs/Delete.cshtml",
+		"/C/Users/shamsad.ahmad/Downloads/residds-master/residds-master/Views/Jobs/Details.cshtml",
+		"/C/xampp/htdocs/assign/js/app.js",
+		"/C/xampp/htdocs/assign/js/materialize.js",
+		"/E/demo-projects/myContacts/app/contacts/contacts.html",
+		"/C/winetrakr/modules/wine/client/views/wine.details.client.view.html",
+		"/C/Users/shamsad.ahmad/Downloads/residds-master/residds-master/Views/Account/Dashboard.cshtml",
+		"/C/Users/shamsad.ahmad/Downloads/residds-master/residds-master/Views/Account/Register.cshtml",
+		"/C/xampp/htdocs/assign/app.js",
+		"/C/xampp/htdocs/assign/page-blank.html",
+		"/C/winetrakr/config/config.js",
+		"/C/winetrakr/config/lib/express.js",
+		"/C/winetrakr/modules/cellars/client/config/cellers.client.config.js",
+		"/C/winetrakr/config/env/development.js",
+		"/C/winetrakr/config/lib/seed.js",
+		"/C/winetrakr/modules/country/client/country.client.module.js",
+		"/C/winetrakr/modules/wine/client/views/add-bottle.client.view.html",
+		"/C/winetrakr/modules/wine/client/controllers/wine-add.client.controller.js",
+		"/C/winetrakr/modules/wine/server/controllers/wines.server.controller.js",
+		"/E/demo-projects/myContacts/app/contacts/contacts.js",
+		"/C/winetrakr/modules/wine/server/policies/wines.server.policy.js",
+		"/C/winetrakr/modules/wine/client/services/wines.client.service.js",
+		"/C/winetrakr/config/lib/app.js",
+		"/C/winetrakr/modules/wine/client/controllers/wines.client.controller.js",
+		"/C/winetrakr/modules/wine/client/views/wine-details.client.view.html",
+		"/C/winetrakr/modules/wine/client/views/bottle.details.client.view.html",
+		"/C/winetrakr/modules/country/client/controllers/country.client.controller.js",
+		"/C/Program Files/MongoDB/mongo.config",
+		"/C/Program Files/MongoDB/mongo-d.config",
+		"/C/winetrakr/server.js",
+		"/C/Users/shamsad.ahmad/Downloads/keycloak-angular-akka-http-master/keycloak-angular-akka-http-master/client/app.js",
+		"/E/Shamsad/All Program Lectures/JS Framework Tutorials/Node.js/Build a Real Time web app in node.js , Angular.js, mongoDB/userStory-master/app/routes/api.js",
+		"/E/demo-projects/myContacts/app/app.css"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			"E:\\Shamsad\\All Program Lectures\\Salesforce\\DF14-Visualforce-AngularJS-RemoteObjects-master\\DF14-Visualforce-AngularJS-RemoteObjects-master\\src\\ContactManagerSPA",
+			"E:\\Shamsad\\All Program Lectures\\Salesforce\\DF14-Visualforce-AngularJS-RemoteObjects-master\\DF14-Visualforce-AngularJS-RemoteObjects-master",
+			"E:\\winetrakr\\modules",
+			"E:\\winetrakr",
+			"E:/winetrakr/modules/",
+			"E:/winetrakr/node_modules/mongoose/"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"drawProgressDistributors",
+			"FavoriteBeerCategory",
+			"userService",
+			"qSvc",
+			"encodeURIComponent",
+			"HistoricPositions",
+			"get",
+			"year",
+			"appContext",
+			"announcementList",
+			"AnnouncementService",
+			"Average",
+			"IAboutService",
+			"About",
+			"add",
+			"api/core/receipt",
+			"/api/core/receipt",
+			"api/users/picture",
+			"/api/core/receipt",
+			"getDates",
+			"average",
+			"getAverage",
+			"toDateString",
+			"getDates",
+			"post",
+			"WineBottle",
+			"wine_bottle.server.model.js",
+			"WineBottle",
+			"post",
+			"getDates",
+			"bson.calculateObjectSize",
+			"next();",
+			"getDates",
+			"next",
+			"getDates",
+			"getDate",
+			"getDates",
+			"getJsonDifference",
+			"getDates",
+			"fxrate",
+			"getDates",
+			"find",
+			"getDates",
+			"push",
+			"wines",
+			"code",
+			"theme",
+			"Materialize",
+			"country",
+			"count",
+			"country",
+			"id",
+			"scope",
+			"myApp",
+			"lsAction",
+			"base_url",
+			"redefine-search-form",
+			"req.decoded",
+			"secretKey"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Hobbies"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 8,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/shamsad.ahmad/Downloads/ParallaxContentSlider/index2.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4418,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4363,
+								4366
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 57.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/shamsad.ahmad/Downloads/ParallaxContentSlider/js/jquery.cslider.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6839,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								375,
+								375
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/shamsad.ahmad/Downloads/MockupSlideshow/MockupSlideshow/index2.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2699,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								54,
+								54
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 866,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								859,
+								859
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<body  style=\" background-color: #005c99;\">",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/E/winetrakr/modules/core/client/views/header-graph.client.view.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5361,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 513.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/E/winetrakr/modules/core/client/views/graph.client.view.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9918,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 456.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/E/winetrakr/modules/core/client/controllers/graph.client.controller.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 32317,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11440,
+								11459
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 6255.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/E/winetrakr/modules/core/client/controllers/header.client.controller.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12568,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3819.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/E/Shamsad/Projects/Used Themes(ThemeForest)/themeforest-5495486-melon-flat-responsive-admin-template/Template/assets/js/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 20484,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2793.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "package.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 251.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
